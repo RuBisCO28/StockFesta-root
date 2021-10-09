@@ -1,3 +1,6 @@
+[submodule "api"]
+  path = api
+  url = https://github.com/RuBisCO28/StockFesta-api
 [submodule "front"]
-	path = front
-	url = ./front_cp
+  path = front
+  url = https://github.com/RuBisCO28/StockFesta-front
